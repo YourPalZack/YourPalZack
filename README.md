@@ -3,7 +3,7 @@
 **14+ Years of Technical SEO, GEO (Generative Engine Optimization), and AI-Driven Website Strategy**
 
 📍 Based in Rifle, Colorado  
-📧 [yourpalzack@gmail.com](mailto:yourpalzack@gmail.com) | 🌐 [YourPalZack.com](https://yourpalzack.com) | 💼 [LinkedIn](https://linkedin.com/in/yourpalzack)
+📧 [yourpalzack@gmail.com](mailto:yourpalzack@gmail.com) | 🌐 [YourPalZack.com](https://yourpalzack.com) | 💼 [LinkedIn](https://linkedin.com/in/iamzackhayes)
 
 ---
 
