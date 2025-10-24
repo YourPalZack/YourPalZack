@@ -1,13 +1,13 @@
-# 👋 Hi, I'm Zack Hayes  
+#  Hey there, I'm Zack Hayes  
 ### Senior SEO Director | Full-Stack SEO & AI Search Optimization Expert  
 **14+ Years of Technical SEO, GEO (Generative Engine Optimization), and AI-Driven Website Strategy**
 
-📍 Based in Rifle, Colorado  
-📧 [yourpalzack@gmail.com](mailto:yourpalzack@gmail.com) | 🌐 [YourPalZack.com](https://yourpalzack.com) | 💼 [LinkedIn](https://linkedin.com/in/iamzackhayes)
+📍 Based in Rifle, Colorado USA
+[yourpalzack@gmail.com](mailto:yourpalzack@gmail.com) | 🌐 [YourPalZack.com](https://yourpalzack.com) |  [LinkedIn](https://linkedin.com/in/iamzackhayes)
 
 ---
 
-## About Me  
+## Just A Little About Me  
 
 I’m **Zack Hayes**, a full-stack SEO and AI search strategist with over **14 years of experience** driving measurable organic growth for SaaS, fintech, and enterprise-scale platforms.  
 
@@ -17,11 +17,11 @@ I specialize in:
 - **Technical SEO Architecture** — optimizing crawlability, indexation, and site speed at scale  
 - **E-E-A-T & Semantic SEO** strategies for long-term authority building  
 
-I’ve built, ranked, and sold multiple high-traffic websites while leading SEO programs for national and enterprise brands.  
+I’ve built, ranked, and sold multiple high-traffic websites while leading SEO programs for national and enterprise brands as well as worked as a Web Developer/SEO at startups that need to be flexible and multi-talented.
 
 ---
 
-## 🔧 Tool Stack & Certifications  
+## SEO Tool Stack & Certifications  
 
 ### SEO & Analytics Tools  
 [![GA4 Certified](https://img.shields.io/badge/Google%20Analytics%204-Certified-E37400?logo=google-analytics&logoColor=white)](https://marketingplatform.google.com/about/analytics/)
@@ -37,7 +37,7 @@ I’ve built, ranked, and sold multiple high-traffic websites while leading SEO 
 
 ---
 
-### AI & Automation Tools  
+### AI, GEO, & Automation Optimization Tools
 [![OpenAI GPT](https://img.shields.io/badge/OpenAI-GPT-412991?logo=openai&logoColor=white)](https://openai.com)
 [![Claude](https://img.shields.io/badge/Anthropic-Claude-FFD43B?logoColor=black)](https://www.anthropic.com)
 [![Perplexity](https://img.shields.io/badge/Perplexity-AI%20Search-0052CC?logoColor=white)](https://perplexity.ai)
@@ -74,7 +74,7 @@ I’ve built, ranked, and sold multiple high-traffic websites while leading SEO 
 
 ---
 
-## 📊 Key Expertise  
+##  Full Stack SEO & Marketing Experience For 14+ Years
 
 - **Technical SEO & Programmatic Architecture** — optimizing 1M+ page sites with advanced crawling, indexing, and structured data  
 - **Generative Engine Optimization (GEO)** — visibility within AI-driven search experiences (ChatGPT, Gemini, SearchGPT, Perplexity)  
@@ -84,7 +84,7 @@ I’ve built, ranked, and sold multiple high-traffic websites while leading SEO 
 
 ---
 
-## 🎓 Certifications  
+##  Certifications  
 
 - Google Analytics Certified  
 - Google Ads Certified  
@@ -94,7 +94,7 @@ I’ve built, ranked, and sold multiple high-traffic websites while leading SEO 
 
 ---
 
-## 🗣️ Thought Leadership  
+##  Thought Leadership  
 
 - Published guides on **AI SEO**, **Generative Engine Optimization (GEO)**, and **Search Generative Experience (SGE)**.  
 - Frequent contributor to discussions on **LLM-based SEO** and **AI answer engine visibility**.  
@@ -102,7 +102,7 @@ I’ve built, ranked, and sold multiple high-traffic websites while leading SEO 
 
 ---
 
-## 📬 Connect  
+## Want To Chat With Me?
 
 I’m currently open to **SEO leadership, AI search optimization, and technical consulting opportunities**.  
 If you’re building something that needs visibility in both **Google Search and Generative AI**, let’s talk:  
